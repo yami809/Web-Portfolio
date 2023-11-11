@@ -7,7 +7,6 @@ tags: [RK]
 
 # Puisi Sumpah Pemuda 
 
-
 Di lautan waktu yang bergelombang,
 Terukir sejarah, Sumpah Pemuda yang teguh.
 Sebuah janji suci, semangat berkobar,
@@ -52,7 +51,4 @@ Mari kita bersama, tanpa melupakan,
 Sumpah suci yang telah menjadi akar.
 Di setiap langkah, di setiap tindakan,
 Generasi penerus, jadilah cahaya yang tak pernah pudar.
-
-
-
 
